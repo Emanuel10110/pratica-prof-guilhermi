@@ -1,0 +1,15 @@
+header{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+body{
+    color: blue;
+    background-image: linear-gradient(to right, pink , rgb(234, 0, 255));
+    font-family:sans-serif;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
